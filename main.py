@@ -69,7 +69,7 @@ def main():
         elif optiune == 'x' :
             break
         else :
-            print('Optiune nevalida.') 
+            print('Optiune nevalida.')
 
 
 main()
