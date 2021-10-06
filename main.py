@@ -119,5 +119,5 @@ def main():
         else :
             print('Optiune nevalida.')
 
-
-main()
+if __name__ == '__main__' :
+    main()
